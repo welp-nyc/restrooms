@@ -1,6 +1,6 @@
 # Restroom Images
 
-Photos preferably are landscape mode and 600x450.
+Photos preferably are in landscape mode and 600 x 450.
 
 ```
 ├── ...
